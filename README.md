@@ -19,7 +19,7 @@ This is the English version of the README. For French, please refer to [README_F
 
 ## Mobile Application
 <div align="center">
-  <img src="Screenshots/Mobile%20app.png" alt="mobile" width="600px" height="500"/>
+  <img src="Screenshots/Mobile%20app.png" alt="mobile"/>
 </div>
 
 #### Tools and Development Environment
